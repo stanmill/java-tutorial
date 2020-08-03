@@ -6,8 +6,8 @@ public class WhileLoop {
 		
 		int i = 0;
 		boolean state = true;
-		
-		while(1 < 10) {
+
+		while(i < 7) {
 			System.out.println(i);
 			break;
 		}
